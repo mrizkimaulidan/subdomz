@@ -25,4 +25,4 @@ Normal Usage : script.py example.com
 Saving Output : script.py -o example.com
 ```
 
-Tested on Kali Linux 2021.4
+Tested on Kali Linux 2021.4 and Windows 10 Pro
